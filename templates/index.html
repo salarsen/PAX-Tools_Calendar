@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PAX Tools!</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+        <link rel="stylesheet" href="{{ url_for('static',filename='css/index.css') }}">
+    </head>
+    <body>
+        <div class="container"></div>
+            <h1>Welcome to PAX Tools!</h1>
+            <h3>Click an image below to download a calendar import file and import into Outlook or Gmail for each Twitch Channel!</h3>
+            <hr>
+            <div class="row">
+                <div class="paxMain">
+                    <h2>Horse Theater</h2>
+                    <a href="{{ url_for('static',filename='calendars/PAX-East21_HorseTheatre.ics')}}">
+                        <img src="{{ url_for('static',filename='images/pax.png') }}" />
+                    </a>
+                </div>
+            </div>
+            <div class="row paxSubs-R">
+                <div class="col- pax2 paxSubs">
+                    <h2>Unicorn Theater</h2>
+                    <a href="{{ url_for('static',filename='calendars/PAX-East21_UnicornTheatre.ics')}}">
+                        <img src="{{ url_for('static',filename='images/paxO.png') }}" />
+                    </a>
+                </div>
+                <div class="col- pax3 paxSubs">
+                    <h2>Goose Theater</h2>
+                    <a href="{{ url_for('static',filename='calendars/PAX-East21_GooseTheatre.ics')}}">
+                        <img src="{{ url_for('static',filename='images/paxO.png') }}" />
+                    </a>
+                </div>
+                <div class="col- pax2 paxSubs">
+                    <h2>PAX Arena Stage</h2>
+                    <a href="{{ url_for('static',filename='calendars/PAX-East21_TwitchArena.ics')}}">
+                        <img src="{{ url_for('static',filename='images/paxA.png') }}" />
+                    </a>
+                </div>
+            </div>
+            <div class="row paxSubs-R">
+                <div class="col- pax2 paxSubs">
+                    <h2>Swan Theater</h2>
+                    <a href="{{ url_for('static',filename='calendars/PAX-EAST21_EGX.ics')}}">
+                        <img src="{{ url_for('static',filename='images/egx.png') }}" />
+                    </a>
+                </div>
+                <div class="col- pax3 paxSubs">
+                    <h2>EGX Arena</h2>
+                    <a href="{{ url_for('static',filename='calendars/PAX-EAST21_EGXArena.ics')}}">
+                        <img src="{{ url_for('static',filename='images/egx_arena.png') }}" />
+                    </a>
+                </div>
+            </div>
+
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    </body>
+    <hr>
+    <footer>
+        <p>
+            This site is in no way affiliated with PAX or Penny Arcade.
+        </p>
+    </footer>
+</html>

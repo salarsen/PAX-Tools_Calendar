@@ -1,0 +1,289 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EGX Rezzed//EGX Rezzed 2021//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:twitch.tv-EGX
+BEGIN:VEVENT
+SUMMARY:Tentacle Zone Incubator 2021 - Cohort Game Showcase
+DTSTART:20210715T160000Z
+DTEND:20210715T170000Z
+UID:TZI2021-CGS
+DESCRIPTION:Meet the talented participants of the 2021 Tentacle Zone Incub
+ ator as they showcase their games to players. The Tentacle Zone Incubator 
+ is a four month virtual games incubator programme for early stage develope
+ rs from underrepresented groups. Yaldi Games\, Spider Lily Studios\, Fligh
+ tful Pear\, Wordplay Games\, Wabisabi Play\, The Sea and the Forest\, Cloc
+ kwork Raven Studios\, Gesinimo Games and MADE BY TITANS will all be taking
+  part. Thanks to the support of the incubators partners - Tonic Games Grou
+ p\, Green Man Gaming\, Creative Enterprise’s Creative England\, UKIE and
+  the University of Greenwich - the programme has flourished. Read more abo
+ ut the programme and this years founders here https://tentacle.zone/introd
+ ucing-the-tentacle-zone-incubator-cohort-2021/\n\nPanelists\n\nTentacle Zo
+ ne Incubator 2021 - Cohort Game Showcase\, brought to you by Payload Studi
+ os\, will be hosted by Elle Osili-Wood and feature members of the Tentacle
+  Zone Incubator Programme 2021
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leading The Way: What's Involved In Leading A Team
+DTSTART:20210715T171500Z
+DTEND:20210715T181500Z
+UID:LTWWIILAT
+DESCRIPTION:If you are in charge of people\, you\\'re leading a team! Almo
+ st every game involves multiple people across different disciplines workin
+ g together to produce the best game possible\, but what does it take to su
+ ccessfully lead a team? Host Husban Siddiqi (Game Director at HUSKRAFTS) q
+ uestions Robyn Murphy (Creative Producer at Kwalee)\, Alan Yeats (Technica
+ l Director at Pocket Sized Hands)\, and Paula Lucas (Art Lead at Ant Works
+ hop) about the difference in their team\, what they have done to lead thei
+ r teams\\'\, and what we could all be doing to improve our leadership tech
+ niques.\n\nPanelists\n\nHusban Siddiqi (Game Director at HUSKRAFTS)\, Roby
+ n Murphy (Creative Producer at Kwalee)\, Alan Yeats (Technical Director at
+  Pocket Sized Hands)\, Paula Lucas (Art Lead at Ant Workshop)
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Level Design Fireside Chat: What it Takes to Become a Good Desig
+ ner
+DTSTART:20210715T183000Z
+DTEND:20210715T193000Z
+UID:ALDFCWITTBAGD
+DESCRIPTION:In this panel Jonathon and Max will delve into the multifacete
+ d nature of level design and discuss what they have learned throughout the
+ ir careers. Talking about how level design has changed\, some level design
+  misconceptions\, and how the responsibilities of a Level designer can dif
+ fer from project to project and even studio to studio. Failing that\, come
+  listen to two designers nerd out about level design!\n\nPanelists\n\nJona
+ thon Wilson (Freelance Designer\, Currently a Senior Game Designer at UsTw
+ o Games)\, Max Pears (Senior Level Designer at CDProjekt Red)
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Be A Games Developer
+DTSTART:20210715T194500Z
+DTEND:20210715T204500Z
+UID:HTBAGD
+DESCRIPTION:Leading industry experts from major studios discuss what jobs 
+ exist in games development\, how you can end up working for some of the bi
+ ggest games companies in the world\, and how you can even go and do it you
+ rself\n\nPanelists\n\nTBC
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rock Paper Shotgun Indie Showcase
+DTSTART:20210716T160000Z
+DTEND:20210716T170000Z
+UID:RPSIS
+DESCRIPTION:Join RPS\, the world’s best PC gaming website\, as they show
+ case some of this year’s most anticipated indie releases and some gems y
+ ou may have overlooked!
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heal thyself - Taking Care of our own mental health when making ga
+ mes with mental health themes
+DTSTART:20210716T171500Z
+DTEND:20210716T181500Z
+UID:HT-TCOOOMHWMGWMHT
+DESCRIPTION:Making games can be stressful. Making games based on your own 
+ experiences of anxiety\, depression\, bullying\, isolation and/or any numb
+ er of other mental health issues can take that stress to a whole new level
+ ! Game designers are increasingly harnessing the storytelling power of gam
+ es to convey powerful narratives about mental health. We discuss with game
+ -makers and mental health professionals how they look after themselves whi
+ le confronting subject matter that can be both challenging and cathartic t
+ o work with. We’ll also touch on how to navigate the emotional highs and
+  lows of making and releasing games in a way that fosters resilience and g
+ rowth using examples from our own game-making careers.\nPanelists\n\nRache
+ l Clancy (Founder\, Tea Creature Studios)\, Federico Fasce (Course Leader 
+ of Independent Games\; Playable Experience Design at Goldsmiths College Lo
+ ndon)\, Sachin Shah (Founding Member of Gaming the Mind)
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Esports:College and Career Insights
+DTSTART:20210716T183000Z
+DTEND:20210716T193000Z
+UID:ECACI
+DESCRIPTION:Stay Plugged IN (SPIN)\, a collegiate esports recruitment plat
+ form is hosting a collegiate and career insights panel at EGX. Perspective
+ s from industry professionals\, high school and collegiate coaches\, and p
+ arents will be shared with participants in a discussion on the opportuniti
+ es to attend college or pursue a career related to esports. Topics include
+  the collegiate recruitment process\, cultivating esports and the gaming l
+ ifestyle on campus\, scholarship opportunities\, competitive programs\, an
+ d career development.
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Esports:The Creative Process Writing for Videogame Music
+DTSTART:20210716T194500Z
+DTEND:20210716T204500Z
+UID:ETCPWFVM
+DESCRIPTION:For this panel\, please join Evilnoob from the VGM podcast Dor
+ kTunes speaking with Barry Topping (Paradise Killer)\, Niels Van Der Leest
+  (Horizon Zero Dawn\, Horizon Forbidden West & more)\, and Julie Elven (Ho
+ rizon Zero Dawn\, World of Warcraft - Legion & more) to discuss just how t
+ hey approach writing for games\, and how they differ\, and much more!\n\nP
+ anelists\n\nEvilnoob (Dorktunes)\, Barry Topping (Paradise Killer)\, Niels
+  Van Der Leest (Horizon Zero Dawn\, Horizon Forbidden West & more)
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outside Xbox
+DTSTART:20210716T210000Z
+DTEND:20210716T220000Z
+UID:OX2021EGX
+DESCRIPTION:In time-honoured Rezzed tradition\, Outside Xbox digs up the p
+ reviously buried hatchet and partakes in another gloriously acrimonious bo
+ ut of Indie scuffle simulator Gang Beasts. This time with 100% more murder
+ ous krakens by volume.\n\nPanelists\n\nJane Douglas\, Andy Farrant & Mike 
+ Channell
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rock Paper Shotgun Indie Showcase
+DTSTART:20210717T110000Z
+DTEND:20210717T120000Z
+UID:RPSIS-F
+DESCRIPTION:Join RPS\, the world’s best PC gaming website\, as they show
+ case some of this year’s most anticipated indie releases and some gems y
+ ou may have overlooked!
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnout... from games?! What burnout is and what to do about it
+DTSTART:20210717T121500Z
+DTEND:20210717T131500Z
+UID:BFGWBIAWTDAI
+DESCRIPTION:We’ve all heard about burnout in the workplace\, but can you
+  experience something similar with a hobby you normally love? We\\'re hear
+ ing more and more about gamers who become exhausted by games to the point 
+ that playing starts to feel like a chore\, and continuing to play brings s
+ tress rather than enjoyment. Sachin Shah from Gaming the Mind (Twitter @ga
+ mingthemind)\, a charity dedicated to improving the mental health of gamer
+ s\, leads a discussion on what burnout really is (it’s more than just fa
+ tigue!)\, whether burnout can apply to gaming\, and how to manage it\, or 
+ avoid it in the first place! Mental health Doctor Chun Chiang Sin Fai Lam 
+ discusses what he knows from researching and managing burnout\, while Step
+ hanie Minor (Twitter @dieharddragoon)\, editor at TheGamer\, talks about h
+ ow it feels to lose passion for games\, and how to bring the fun back into
+  gaming. Above all\, it\\'s about taking care of that really important thi
+ ng--your mental health--while doing the things you love!\n\nPanelists\n\nS
+ achin Shah (mental health doctor and member of Gaming the Mind)\, Stephani
+ e Minor (editor at TheGamer)\, Chun Chiang Sin Fai Lam (mental health doct
+ or and member of Gaming the Mind)
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unconscious Bias and the Changing Face of gaming
+DTSTART:20210717T133000Z
+DTEND:20210717T143000Z
+UID:UBATCFOG
+DESCRIPTION:A panel will hold a live Q&A session discussing why unconsciou
+ s bias is hindering the growth of the gaming industry. Why representation 
+ is so crucial in breaking down barriers and bridging the ever-widening gap
+  of representation in the gaming industry.\n\nPanelists\n\nAnnabel (Founde
+ r)\, Alan (Chief Researcher)\, Xen (Lead Illustrator)\, Laura (Digital Mar
+ keting Lead)\, Donavan (Creative Producer)
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Guild to Kickstarter: A Beginner's Guide to Entering the Worl
+ d of Roleplaying Game Publication
+DTSTART:20210717T144500Z
+DTEND:20210717T154500Z
+UID:FGTKABGTETWORGP
+DESCRIPTION:Hi folks! I am Cam Day\, the founder of Daylight Publications 
+ - author of Supers & Sorcery\, Comets & Cockpits\, Feyforged\, Root & Twig
+ \, and Barrow Bound: Eberron! Back in 2019\, I got started on the Dungeon 
+ Masters Guild and slowly began to build myself as a creator\, learning fro
+ m my friends and mentors there. In October of that year\, I published my f
+ irst book Voice of the Gods - a tie-in with the then big adventure Descent
+  into Avernus - and I realized that this was super fun! However I stumbled
+  a lot\, so now I want to bring tips and tricks and guidance to other folk
+ s who might be considering getting into TTRPG publishing but don\\'t know 
+ where to begin. We will start with talking about various platforms you can
+  publish on and what they might offer in comparison to others\, building y
+ our audience\, managing social media\, creating your brand\, networking\, 
+ and finally: publishing. At the end of this panel\, you will have the outl
+ ine of tools to be able to create and develop yourself into a new TTRPG cr
+ eator. Additionally\, you will gain access to the Daylight Publications Di
+ scord server\, where you can playtest our titles\, network with other crea
+ tors\, and even join our Mentorship Program!\n\nPanelists\n\nCameron Day (
+ Found and Creator)
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learning Throughout Esports
+DTSTART:20210718T110000Z
+DTEND:20210718T120000Z
+UID:LTE2021EGX
+DESCRIPTION:The growing popularity of esports across student populations i
+ s recognized as having the potential to be a powerfully engaging tool to r
+ each a diverse array of students and create an inclusive\, welcoming learn
+ ing environment\, enhancing students’ abilities to collaborate\, solve r
+ eal problems\, and learn in meaningful ways. In education\, esports is int
+ egrated with a games-based learning approach promoting 21st-century skills
+ \, college preparatory and career technical education (CTE) pathways\, and
+  prepares students for future-ready careers in STEM (science\, technology\
+ , engineering\, and mathematics). Students can even earn college scholarsh
+ ips by participating in esports potentially leading to degrees or certific
+ ations in several leading industries.\n\nPanelists\n\nDanny Martin (CEO/Co
+ Founder\, Esposure Inc.)\, Josh Williams (Global University Esports Manage
+ r\, GGTech)\, HB Duran (Freelance Esports Writer)
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Striking That Work\\/Life Balance - Game Dev London
+DTSTART:20210718T121500Z
+DTEND:20210718T131500Z
+UID:STWLB-GDL
+DESCRIPTION:It is vital to your ongoing health and well being that you str
+ ike a good work/life balance. It\\'s something we\\'re very keen on here a
+ t Game Dev London so we want to bring you our experience from different ro
+ les in the industry about what we do right and what we could do better. He
+ ar from a freelancer\, a studio owner\, a manager\, and a new hire about h
+ ow we approach the subject\n\nPanelists\n\nStuart De Ville (Co-Founder\, G
+ ame Dev London)\, Jade Leamcharaskul (Audio Producer\, Silver Rain Games)\
+ , Chris Payne (Co-Founder\, Quantum Soup Studios)\, Melissa Chaplin (Consu
+ ltant\, Robot Teddy)
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Aha! Moment: What Makes a Satisfying Puzzle?
+DTSTART:20210718T133000Z
+DTEND:20210718T143000Z
+UID:TAMWMASP
+DESCRIPTION:From Portal to A Monster’s Expedition\, puzzle games can eli
+ cit a wide range of feelings and emotions but none so strong as when you f
+ inally solve the puzzle that’s had you stumped. But how do the designers
+  come up with these situations carefully crafting them to lead you to that
+  powerful catharsis? Join a talented group of veteran puzzle designers for
+  an hour of discussion about puzzle design testing refinement and ultimate
+ ly releasing these puzzles and seeing how the world responds.\n\nPanelists
+ \n\nSyrenne McNulty (Freelance Producer)\, Alan Hazelden (Head Draknek\, D
+ raknek & Friends)\, Gwen Frey (Director\, Chump Squad)\, Marcos Donnantuon
+ i (Self)\, Arvi Teikari (CEO \, Hempuli)\, Corey Martin (Director\, Self)
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last 10%: Getting A Game Out Into The World
+DTSTART:20210718T144500Z
+DTEND:20210718T154500Z
+UID:TL10GAGOITW
+DESCRIPTION:Have you ever tried to finish making a game? Turns out the las
+ t 10% can take as long as the first 90%\, and it can take many forms. Host
+  Chris Filip (Programme Manager at Creative England) interrogates 3 people
+  who have gotten games out into the world\, Adam Boyne (Director at BetaJe
+ ster)\, Annie Grudeva (Creative Director at Perpetual Games)\, and Joel Au
+ terson (Director at Bearwaves)\, about what is involved in that last 10%\,
+  how do you actually finish a game\, and what happens when you try to get 
+ a game onto the platforms.\n\nPanelists\n\nChris Filip (Programme Manager 
+ at Creative England)\, Adam Boyne (Director at BetaJester)\, Annie Grudeva
+  (Creative dierector at Perpetual Games)\, Joel Auterson (Director at Bear
+ waves).
+LOCATION:https://twitch.tv/egx
+END:VEVENT
+END:VCALENDAR

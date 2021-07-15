@@ -1,0 +1,510 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PAX Online//PAX East Online 2021//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:twitch.tv-PAX
+BEGIN:VEVENT
+SUMMARY:Storytime: Mike Bilder\, Jackbox Games
+DTSTART:20210715T160000Z
+DTEND:20210715T170000Z
+UID:719221
+DESCRIPTION:From classics like Drawful\, Fibbage\, and Quiplash\, to newco
+ mers Tee K.O.\, Champ'd Up\, and Talking Points\, Jackbox Games has seen e
+ nduring success since the first Party Pack was released in 2014\, and its 
+ CEO\, Mike Bilder\, has been there every step of the way. Join Mike as he 
+ shares the history of his 20+ years in the game industry\, shows us the se
+ crets of his Chicago team's success\, and maybe draws a bird with a bra at
+  some point. (Probably not.) (But what if?!)\n\nMike Bilder [CEO\, Jackbox
+  Games]\n\nhttps://twitch.tv/pax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Penny Arcade Make-A-Strip!
+DTSTART:20210715T171500Z
+DTEND:20210715T181500Z
+UID:719239
+DESCRIPTION:We're starting the weekend off right\, with a funky fresh fina
+ le to the Mike Krahulik era of the Penny Arcade Make-A-Strip panel. Join t
+ he internet's Jerry "Tycho Brahe" Holkins and Mike\, "Gabriel\, the Art An
+ gel" Krahulik for their final on-stage attempt at drawing an entire comic 
+ strip in the space of one calendar hour. Join in this historic PAX moment 
+ and help support Child's Play Charity by donating here:  https://donate.ti
+ ltify.com/@childs-play/pax-east-online-make-a-strip!\n\nMike Krahulik [Art
+ ist\, Penny Arcade]\nJerry Holkins [Word Artist\, Penny Arcade]\n\nhttps:/
+ /twitch.tv/pax\n\n!Live Stream!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MY.GAMES Presents: Blast Brigade and Friends
+DTSTART:20210715T183000Z
+DTEND:20210715T193000Z
+UID:719257
+DESCRIPTION:Join MY.GAMES as they showcase their upcoming games\, as well 
+ as updates to their greatest hits. Dive into the world of Blast Brigade wi
+ th an exclusive in-depth look at the gameplay of the explosive Metroidvani
+ a. Take a sneak peek at the development of World War 3 and learn about a b
+ rand-new Season for medieval action MMO Conqueror's Blade and the tactical
+  first-person shooter Warface.\n\n\nhttps://twitch.tv/pax\n\n!Pre-Recorded
+ !
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAX Game Club - Q/A with the Devs of Celeste
+DTSTART:20210715T194500Z
+DTEND:20210715T204500Z
+UID:720700
+DESCRIPTION:Join the developers of Celeste as they dive deep on their 2018
+  masterpiece! This discussion is a part of the PAX Game Club\, a free mont
+ hly program where the PAX community (that’s you!) plays an indie game to
+ gether and then talks about it. In addition to this Q/A\, there will be a 
+ Celeste speedrun on the PAX Twitch channel at the end of July featuring so
+ me of the devs you’ll see during PAX Online East. Learn more about the P
+ AX Game Club here: https://online.paxsite.com/en-us/features/pax-game-club
+ .html\nhttps://twitch.tv/pax\n\n!Live Stream!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:For the Love of the Game
+DTSTART:20210715T210000Z
+DTEND:20210715T220000Z
+UID:720751
+DESCRIPTION:Catch a slice of life dive into the exciting upcoming games pu
+ blished by Freedom Games. Our indie developers take center stage as they s
+ howcase fresh gameplay\, share their stories\, and open up about their str
+ uggles. From Space Colony farming simulators (One Lonely Outpost) to pet b
+ usiness managers (To The Rescue!\, Cat Cafe Simulator)\, to hardcore Souls
+ -like and Metrodivania titles (Sands of Aura\, 9 Years of Shadows)\, there
+ 's something for everyone! Tune in to catch trailers and gameplay for 17 u
+ pcoming games!\nhttps://twitch.tv/pax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Podcast Unlocked: IGN's Weekly Xbox Show
+DTSTART:20210715T221500Z
+DTEND:20210715T231500Z
+UID:719293
+DESCRIPTION:IGN's biggest Xbox superfans gather to discuss the week's bigg
+ est Xbox news\, from Xbox Series X to Xbox Game Pass to xCloud. Hosted by 
+ Ryan McCaffrey\, Miranda Sanchez\, Destin Legarie\, and Brandin Tyrrel.\n\
+ nRyan McCaffrey [Executive Editor\, IGN]\nMiranda Sanchez [Executive Edito
+ r\, IGN]\nDestin Legarie [Senior Features Producer\, IGN]\nBrandin Tyrrel 
+ [Events Manager\, IGN]\n\nhttps://twitch.tv/pax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jackbox Party PAX
+DTSTART:20210715T233000Z
+DTEND:20210716T003000Z
+UID:719311
+DESCRIPTION:If there's one thing we've learned in our 10\,000 years of com
+ bined PAX and Jackbox experience\, it's that when two or more are gathered
+  in the name of PAX to play Jackbox games\, there shall you find a Party. 
+ \n\nIt's in just such a #blessed environment that we will assemble a merry
+  band of buddies to entertain you while they entertain each other. Join Pe
+ nny Arcade's Jerry Holkins\, Kris Straub's Kris Straub\, LoadingReadyRun's
+  Graham Stark\, and Penny Arcade's Laura Stringer for this happiest of hou
+ rs.\nhttps://twitch.tv/pax\n\n!Live Stream!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fire Escape x Nextlander PAX Takeover Extraordinaire
+DTSTART:20210716T004500Z
+DTEND:20210716T014500Z
+UID:719329
+DESCRIPTION:CHILDREN OF THE BOMB. Fire Escape and Nextlander come to PAX a
+ nd put Dan\, Mike\, Merry\, Vinny\, Alex and Brad to the test on the lates
+ t video games they've been playing. Also what's a PAX without going down m
+ emory lane and revisiting some of our fondest memories during conventions.
+  You won't want to miss a special LIVE edition of The Fire Escape Cast/ Ne
+ xtlander\n\nDan Ryckert [Co Owner\, Fire Escape Cast]\nMike Mahardy [Co Ow
+ ner\, Fire Escape Cast]\nMary Kish [Co Owner\, Fire Escape Cast]\nVincent 
+ Caravella [Co Owner\, Nextlander]\nAlex Navarro [Co Owner\, Nextlander]\nB
+ rad Shoemaker [Co Owner\, Nextlander]\n\nhttps://twitch.tv/pax\n\n!Live St
+ ream!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geek Trivia Hosted by Geek Therapeutics & Geeks Like Us
+DTSTART:20210716T020000Z
+DTEND:20210716T030000Z
+UID:719347
+DESCRIPTION:Being a geek is super fun and one amazing way to horde lots of
+  random facts about EVERYTHING. Our esteemed panelists are walking geek en
+ cyclopedias that will test your knowledgeable boundaries. This panel is go
+ ing to test the knowledge of the audience within the realm of Video Games\
+ , Anime\, Board Games\, and more! Prizes will be had for the winning answe
+ rs! Think you know your stuff? Come and play to find out!\n\n\nhttps://twi
+ tch.tv/pax\n\n!Live Stream!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Jackbox Writer's Room
+DTSTART:20210716T160000Z
+DTEND:20210716T170000Z
+UID:722826
+DESCRIPTION:Join the amazing crew of comedic writers on the Jackbox editor
+ ial team for a showcase in comedic writing through Jackbox party favorites
+ . Along the way\, they'll talk about the behind the scenes process for wri
+ ting prompts and host content in party games and how they work to make YOU
+  the funny one when you play.\n\nHost: Tim Sniffen \nPanelists: CJ Tuor\, 
+ Claire McFadden\, Paris Newton\, Allie Rubin\, Liz Anderson\nhttps://twitc
+ h.tv/pax\n\n!Live Stream!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Hacking in Games with Midnight Protocol
+DTSTART:20210716T171500Z
+DTEND:20210716T181500Z
+UID:719359
+DESCRIPTION:Tech Journalist David McClelland (BBC\, TechRadar) tells the s
+ tory of how hacking became such a prominent theme in video games. Then he'
+ s joined by the team from LuGus Studios\, the developers of Midnight Proto
+ col\, to explore how that history - the real and the fictional - is repres
+ ented in their upcoming tactical RPG controlled entirely by the command li
+ ne.\n\n\nhttps://twitch.tv/pax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALIEN: Fate of the Nostromo
+DTSTART:20210716T183000Z
+DTEND:20210716T193000Z
+UID:719371
+DESCRIPTION:A deadly Alien stalks the crew of the commercial starship NOST
+ ROMO while they struggle to survive. Work together to move through the shi
+ p\, gather supplies\, and craft items. Tread carefully as you work through
+  your missions - the ALIEN could be just around the corner! Remember\, in 
+ space no one can hear you scream.\n\n\nhttps://twitch.tv/pax\n\n!Live Stre
+ am!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Tetris Effect: Why Tetris is the Ultimate Puzzle Game
+DTSTART:20210716T194500Z
+DTEND:20210716T204500Z
+UID:719383
+DESCRIPTION:Over the years\, Tetris has become more than a game where you 
+ stack blocks and clear lines thanks to iterations like Tetris Effect\, Tet
+ ris 99\, and Puyo Puyo Tetris. Classic versions of the game like NES Tetri
+ s have also found new life in esports thanks to events like the Classic Te
+ tris World Championships. Essentially... Tetris is amazing. In this panel\
+ , we'll be talking about Tetris\, Tetris\, and more Tetris! Specifically\,
+  different versions of the game and why they stand out\, what the "Tetris 
+ Effect" is\, and why Tetris reigns supreme as the ultimate puzzle game.\n\
+ nMorgan Shaver (they/them) [Editor-in-Chief at Prima Games\, Community Man
+ ager for Tetris\, Greenlit Content]\nLucas White (he/him) [Editor at Prima
+  Games\, Greenlit Content]\nJonathan Holmes (he/him) [Editor at Nintendo F
+ orce and Destructoid\, Nintendo Force and Destructoid]\nBrenden Groom (he/
+ him) [Host and Editor-in-Chief at Pass The Controller\, Pass The Controlle
+ r]\nJesse Vitelli (he/him) [Editor at Prima Games\, Prima Games]\nCharlie 
+ Wacholz (he/him) [Host of Comfort Food Podcast\, Editor at Twinfinite\, Co
+ mfort Food Podcast\, Twinfinite]\n\nhttps://twitch.tv/pax\n\n!Pre-Recorded
+ !
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:24th Annual #DICEAwards Game of the Year Roundtable Premiere
+DTSTART:20210716T210000Z
+DTEND:20210716T220000Z
+UID:719395
+DESCRIPTION:Tune in for the premiere of the full panel discussion with the
+  Game of the Year nominees from the 24th Annual D.I.C.E. Awards\, hosted b
+ y the Academy of Interactive Arts & Sciences\, celebrating the games Hades
+ \, Ghost of Tsushima\, Animal Crossing: New Horizons\, The Last of Us Part
+  II\, and FINAL FANTASY VII REMAKE. Kahlief Adams (Spawn On Me) moderates 
+ a candid discussion with Amir Rao (Supergiant Games)\, Brian Fleming (Suck
+ er Punch)\, Nate Bihldorf (Nintendo)\, Neil Druckmann (Naughty Dog)\, and 
+ Yoshinori Kitase (Square Enix) as they give insights into how each of thei
+ r games were developed as well as celebrating their achievements with one 
+ another.\n\nKahlief Adams [Host\, Spawn on Me]\nAmir Rao [Studio Director\
+ , Supergiant Games]\nBrian Fleming [Co-Founder\, Sucker Punch]\nNeil Druck
+ mann [Director\, Naughty Dog]\nYoshinori Kitase [Producer\, Square Enix]\n
+ Nate Bihldorf [Senior Vice President\, Product Development & Publishing\, 
+ Nintendo]\n\nhttps://twitch.tv/pax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Eurogamer's Resident Evil 7 Nightmare Challenge
+DTSTART:20210716T221500Z
+DTEND:20210716T231500Z
+UID:720673
+DESCRIPTION:Join Aoife\, Ian and Zoe from Team Eurogamer as they brave wav
+ es of Molded in the musty basement of the Baker family farmhouse. Who will
+  last the longest and who will scream the loudest? Find out in this little
+  slice of Eurogamer brand chaos!\nhttps://twitch.tv/pax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Look Inside MSI
+DTSTART:20210716T233000Z
+DTEND:20210717T003000Z
+UID:720537
+DESCRIPTION:Get to know the team inside MSI and learn about how we operate
+ .\nhttps://twitch.tv/pax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soundtrack Scramble: The Game Music Arrangement Challenge
+DTSTART:20210717T004500Z
+DTEND:20210717T014500Z
+UID:719419
+DESCRIPTION:Watch in real-time as professional composers are challenged wi
+ th flipping the emotions of some of the most recognizable tunes in all of 
+ geekdom. Each challenger will draw\, at random\, the name of a video game 
+ and the name of a musical style or emotion. They will then have only the l
+ ength of a PAX Panel to re-arrange that tune to match the given style or e
+ motion. Join Chel Wong [Kine\, Whisker Squadron]\, Jasmine Cooper [Kindred
+  Fates\, Gigabuster]\, Megan Carnes [Divinuet\, Helheim Hassle]\, Kris Kir
+ k [Good Lookin' Home Cookin\, Fragments]\, and Trevor Whitaker Black [Kill
+  It With Fire\, Kingsman] as they challenge "The Wheel of Tunes"\, frantic
+ ally arrange music\, and show you their process along the way.\n\nJoshua A
+ ltman (He/Him) [Co-founder\, Digital Daydream]\nChel Wong (She/Her) [Compo
+ ser and Sound Designer\, Freelance]\nMegan Carnes (She/Her) [Composer and 
+ Sound Designer\, Freelance]\nKris Kirk (He/Him) [Composer and Sound Design
+ er\, Freelance]\nTrevor Whitaker Black (He/Him) [Composer and Sound Design
+ er\, Freelance]\nJasmine Cooper (She/Her) [Composer and Sound Designer\, F
+ reelance]\n\nhttps://twitch.tv/pax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Night Concert - insaneintherainmusic
+DTSTART:20210717T020000Z
+DTEND:20210717T030000Z
+UID:719431
+DESCRIPTION:Tune in for a jazzy evening show with insaneintherainmusic. Ca
+ rlos Eiene (insaneintherainmusic) is an American / Filipino multi-instrume
+ ntalist and online content creator. Carlos produces jazz arrangements of v
+ ideo game music\, and posts them on his YouTube channel "insaneintherainmu
+ sic". Carlos is also a freelance session musician and composer\, contribut
+ ing performances and compositions to video games and other media. Original
+ ly from Seattle\, WA\, Carlos graduated from the Berklee College of Music 
+ in 2020.\n\n\nhttps://twitch.tv/pax\n\n!Live Stream!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Penny Arcade Q&A: Origins
+DTSTART:20210717T160000Z
+DTEND:20210717T170000Z
+UID:719437
+DESCRIPTION:Penny Arcade's Gabe and Tycho (the professional aliases of Jaf
+ orty Hole Kids and Mech Kabrewing) answer YOUR pre-submitted questions in 
+ THEIR pre-recorded panel which WE will watch together\, on the internet\, 
+ at a specific time! Wow that's cool! Can't wait. Yay!\n\nMerv Halloumi [Ar
+ tist\, Penny Arcade]\nJelly Hoppins [Writer\, Penny Arcade]\n\nhttps://twi
+ tch.tv/pax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neon Doctrine's Demo Debuts
+DTSTART:20210717T171500Z
+DTEND:20210717T181500Z
+UID:719449
+DESCRIPTION:Tune in to the show as Vlad & Iain of Neon Doctrine introduce 
+ five unique indie games at PAX Online. From kung-fu action\, colorful plat
+ formers\, and zany card battlers to dark fantasy and survival horror\, the
+ re's something for everyone from one of Taiwan's premiere video game publi
+ shers\, all with playable demos for people to try!\n\n\nhttps://twitch.tv/
+ pax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sprites Giveaway and More!
+DTSTART:20210717T183000Z
+DTEND:20210717T193000Z
+UID:719461
+DESCRIPTION:Sprites Entertainment is giving away goodies\, announcing a PS
+ 5-prize tournament\, and showing you how to play the new Sprites Battle Br
+ awl for Free.\n\n\nhttps://twitch.tv/pax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Game Maker's Notebook: Blizzard's J Allen Brack
+DTSTART:20210717T194500Z
+DTEND:20210717T204500Z
+UID:719473
+DESCRIPTION:The Game Maker's Notebook is coming back to PAX Online for the
+  second year! Join us as host Ted Price\, President & Founder of Insomniac
+  Games and Academy of Interactive Arts & Sciences Board Member\, chats wit
+ h Blizzard Entertainment's J Allen Brack (President). Presented by the Aca
+ demy of Interactive Arts & Sciences\, the Game Maker's Notebook is a podca
+ st series featuring a series of in-depth\, one-on-one conversations betwee
+ n game makers and provides a thoughtful and intimate perspective on the bu
+ siness and craft of interactive entertainment from a variety of voices wit
+ hin the games industry.\n\nTed Price [Founder & President\, Insomniac Game
+ s]\nJ Allen Brack [President\, Blizzard Entertainment]\n\nhttps://twitch.t
+ v/pax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Top 10 Nintendo Games Of All Time
+DTSTART:20210717T221500Z
+DTEND:20210717T231500Z
+UID:719497
+DESCRIPTION:For decades Nintendo has brought us into amazing worlds\, give
+ n us unmatchable memories\, and delivered some of the most recognizable ch
+ aracters both in video games and pop culture-- but today it's time to get 
+ a little selfish and pit these games against one another. Join a star-stud
+ ded panel of certified Nintendo experts from Pass The Controller\, Kinda F
+ unny\, Six One Indie\, Game Rant\, and Sony Santa Monica as we take up the
+  unthinkable and try and craft a list of the top ten Nintendo games of all
+  time. Will the mustachioed plumber prevail or will the tunes from an ocar
+ ina overshadow the rest? Only one way to find out.\n\nBrenden Groom (he/hi
+ m) [Editor\, Host\, Pass The Controller]\nCameron Hawkins (he/him) [Writer
+ \, Host\, Cameron Hawkins]\nTim Gettys (he/him) [Co-Founder\, Kinda Funny]
+ \nLily Zaldivar (she/her) [Host\, Six One Indie]\nAlanah Pearce (she/her) 
+ [Writer\, Sony Santa Monica]\nGreysun Morales (he/him) [Lead Guides Editor
+ \, Game Rant]\n\nhttps://twitch.tv/pax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super Art Fight
+DTSTART:20210717T233000Z
+DTEND:20210718T003000Z
+UID:719509
+DESCRIPTION:Artists collide in an unpredictable drawing battle royale! Che
+ er your favorites to victory as they not only face each other in creative 
+ combat\, but deal with the ever changing mechanizations of the crowd-sourc
+ ed WHEEL OF DEATH! It's unpredictable\, completely improvised and absolute
+ ly hilarious\, THIS IS SUPER ART FIGHT!\n\nMarty Day (he/him) [Co-host/Pro
+ ducer\, Super Art Fight LLC]\nRoss Nover (he/him) [Co-Host\, Super Art Fig
+ ht]\nDIETANIUM [Artist\, Super Art Fight]\nBaron Von Sexyful [Artist\, Sup
+ er Art Fight]\nStevie Speed [Artist\, Super Art Fight]\nRed Erin [Artist\,
+  Super Art Fight]\n\nhttps://twitch.tv/pax\n\n!Live Stream!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Acquisitions Inc. The "C" Team
+DTSTART:20210718T003000Z
+DTEND:20210718T023000Z
+UID:722838
+DESCRIPTION:Shadow Council\, your wish has been granted: The "C" Team has 
+ reunited\, in-person no less\, for a PAX Online East special! Come and see
+  what disastrous and unforeseen consequences you have caused!\n\nFEATURING
+ \nTrystan Falcone as Walnut Dankgrass\nKris Straub as K'Thriss Drow'b\nKat
+ e Welch as Rosie Beestinger\nRyan Hartman as Donaar Blit'zen\nAnd Jerry Ho
+ lkins as DM\n#MOLPY\nhttps://twitch.tv/pax\n\n
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Penny Arcade Q&A: This Time With About As Many Q's as Before
+DTSTART:20210718T160000Z
+DTEND:20210718T170000Z
+UID:719533
+DESCRIPTION:Gosh\, it's looking like Gabe and Tycho of Penny Arcade (aka M
+ eki Hakrulik and Jyrre Hilkons) are once again taking on YOUR digitally-re
+ ndered questions in THEIR private homes\, via THIS weird little widget som
+ eone built\, broadcast for OUR joy and entertainment! Wow that'll be great
+ ! We'd love that. Can we have two scoops\, please? Oh\, please\, papa?\n\n
+ Jerry Holkins [Writer\, Penny Arcade]\nMike Krahulik [Artist\, Penny Arcad
+ e]\n\nhttps://twitch.tv/pax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Past\, Present\, and Future of Mexican Game Development
+DTSTART:20210718T171500Z
+DTEND:20210718T181500Z
+UID:719551
+DESCRIPTION:The story of Mexican game development is like a primetime soap
+ -opera\, filled with ups\, downs\, twists and turns and while differences 
+ are many\, the similarities shared by those in this journey are more than 
+ worth listening to. Join world renowned Mexican developers\, alongside exp
+ erts and journalists\, in a fun conversation about the many adventures\, o
+ bstacles and successes of the Mexican game development scene.\n\nGuillermo
+  Vizcaíno (He/him) [Head of PR and Marketing | Lead Writer\, Lienzo]\nAnt
+ onio Uribe (He/him) [Game Developer | Consultant\, Freelancer]\nJorge Garc
+ ía (He/him) [Director\, Mecha Studios]\nDiana Rodríguez (She/her) [Direc
+ tor\, Director and Co-founder at Big Monster Games]\nKate Sanchez (She/her
+ ) [Co-founder & Editor in Chief\, But why Tho?]\nAdolfo Rico (He/him) [Co-
+ founder & Lead Programmer\, Lienzo]\n\nhttps://twitch.tv/pax\n\n!Pre-Recor
+ ded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Best Retro Games You've Never Heard of
+DTSTART:20210718T183000Z
+DTEND:20210718T193000Z
+UID:719569
+DESCRIPTION:What are some of the best games of yesteryear that have been m
+ ostly lost to time? Join us as we discuss some of our favorite "forgotten"
+  retro games. What made these games so special? Why aren't they more well 
+ known? And what can we do to make "hidden gems" played more?\n\nPat Contri
+  (he) [YouTuber\, Author\, Contri Code Productions]\nAlex Faciane (he) [Yo
+ uTuber\, Podcaster\, n/a]\nNorman Caruso (he) [YouTuber\, Historian\, n/a]
+ \nKelsey Lewin (she) [Historian\, Game Shop Owner\, Video Game History Fou
+ ndation]\n\nhttps://twitch.tv/pax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skip To The Good Part: Visual Novels with Voice Actors
+DTSTART:20210718T194500Z
+DTEND:20210718T204500Z
+UID:719587
+DESCRIPTION:Visual Novels have enjoyed a recent surge in popularity\, both
+  as a genre open to experimentation and innovation (Dream Daddy\, Hatoful 
+ Boyfriend) and as a marketing gimmick for non-gaming brands (I Love You\, 
+ Colonel Sanders!). If you're not already in the scene\, it can be a hard g
+ enre to break into. In Skip to the Good Part\, we're bringing VN veterans 
+ and newcomers together to voice-act their way through a random game\, but 
+ specifically a point in the narrative where things might get...heated.  Jo
+ in us as we Skip to the Good Part and see how much fun Visual Novels can b
+ e\, even when you do it the wrong way! \n\nLeeah [Visual Novel Enjoyer\, R
+ eedPOP] (she/her)\nLaura [Visual Novel Destroyer\, Penny Arcade] (she/he)\
+ n@RomGothSam [Founder\, Romancing the Gothic] (all)\n\nhttps://twitch.tv/p
+ ax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AHHHHHH! How Narrative Designers Scare You in Games & Movies
+DTSTART:20210718T210000Z
+DTEND:20210718T220000Z
+UID:719605
+DESCRIPTION:From Dead Space and The Walking Dead\, to Saw and Friday the 1
+ 3th\, let's talk horror and sci-fi. A panel of narrative game designers an
+ d writers come together to discuss what makes a truly terrifying game. R. 
+ Eric Lieb\, Todd Farmer\, Marc Bernardin and Kent Mudle will share some of
+  the techniques they've applied in games (but also movies) over the years 
+ to evoke fear\, dread\, and skin crawling unease.\n\nR. Eric Lieb [Senior 
+ Writer\, Striking Distance Studios]\nTodd Farmer [Actor and Horror Writer\
+ , Jason X\, The Messengers\, My Bloody Valentine]\nKent Mudle [Creative Di
+ rector\, Cinematic and Narrative Designer \, Telltale's The Walking Dead\,
+  Unannounced Project]\nMarc Bernardin [Writer and Producer \, Star Trek: P
+ icard\, Castle Rock]\n\nhttps://twitch.tv/pax\n\n!Pre-Recorded!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Improvisation in Roleplaying: How To Run A Game In The Now
+DTSTART:20210718T221500Z
+DTEND:20210718T231500Z
+UID:719617
+DESCRIPTION:Are you a Game Master that dreads when your players go off scr
+ ipt? Does the thought of the adventurers wandering back into town instead 
+ of into your intricately planned dungeon make you throw your intricately d
+ rawn maps out a window? Well\, then\, Improvisation in Roleplaying is the 
+ panel for you. Join an expert team of authors\, comedians and expert table
+ top maestros and learn the secrets of how to improvise and adapt so that y
+ ou can handle anything your players can throw at you... either in person o
+ r online! All while having more fun!\n\nJohn Serpico (He/Him) [Director/In
+ structor\, ImprovBoston]\nAuston Habershaw (He/Him) [Author\, Harper Voyag
+ er Impulse]\nMelissa Carubia (She/They) [Improviser/Instructor\, The Compa
+ ny Theatre]\nSamantha LeVangie (She/Her) [Improviser\, Magic The Gathering
+  The Show]\nBobby Smithney (He/Him) [Improviser/Instructor\, ImprovBoston]
+ \n\nhttps://twitch.tv/pax\n\n!Live Stream!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omegathon Final Round: [[SUPER-SECRET]]
+DTSTART:20210718T233000Z
+DTEND:20210719T003000Z
+UID:719635
+DESCRIPTION:Imagine a game that is skee ball mixed with bingo\, where you 
+ roll a ball on a slanted surface onto a series of holes which are only sli
+ ghtly larger than the ball\, and correspond with a light-up backboard. Get
+  5 across\, vertically or diagonally\, and you win. This game...is Fascina
+ tion\, and it is not our Omegathon Final Round game. The final round game 
+ is a secret! Obvi. Join our final pair of competitors as they battle LIVE 
+ on stream for the grand prize!\n\nTravis Eriksen [Chief Omeganatech] \nJer
+ ry Holkins [Writer\, Penny Arcade]\nMike Krahulik [Artist\, Penny Arcade]\
+ nhttps://twitch.tv/pax\n\n!Live Stream!
+LOCATION:https://twitch.tv/pax
+END:VEVENT
+END:VCALENDAR
